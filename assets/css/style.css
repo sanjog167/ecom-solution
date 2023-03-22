@@ -2533,7 +2533,9 @@ section {
 .header {
   display: flex;
   width: 100%;
-  padding: 175px 0px 100px;
+  
+  padding: 260px 0px 100px;
+
   justify-content: center;
   align-items: center;
   background-image: url(../img/homebanner.jpg);
