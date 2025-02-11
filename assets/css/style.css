@@ -1753,7 +1753,8 @@ button:focus {
   background: #ffb400;
   color: black;
   font-weight: bold;
-  padding: 10px 100px;
+  padding: 10px 20px;
+  margin-left: auto;
 }
 
 .red_btn i {
